@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">心知天气</string>
+    <string name="lianxian">~</string>
+    <string name="city">城市</string>
+    <string name="plan">计划</string>
+    <string name="daily">日历</string>
+    <string name="share">分享</string>
+</resources>
